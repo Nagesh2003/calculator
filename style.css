@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    background: url('https://images.unsplash.com/photo-1573496782646-3a362182bdd5') repeat;
+    background: url('backgrd.jpg');
     background-size: cover;
     animation: fly 60s linear infinite;
 }
@@ -15,7 +15,7 @@ body {
         background-position: 0 0;
     }
     100% {
-        background-position: 10000px 5000px;
+        background-position: 1000px 500px;
     }
 }
 
